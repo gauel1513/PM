@@ -1,0 +1,6 @@
+번호	출처명	URL
+1	서울열린데이터광장 — 미세먼지 안심 쉼터	https://data.seoul.go.kr/dataList/OA-22311/F/1/datasetView.do
+2	지방재정365 - 우리지자체 세입세출현황	https://www.lofin365.go.kr/portal/LF3120203.do
+3	통계청 KOSIS — 주민등록연앙인구	https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B040M5&conn_path=I2
+4	통계청 KOSIS — 재정자립도(시도/시/군/구)	https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20921&conn_path=I2
+5	서울열린데이터광장- 서울시 년도별 평균 대기오염도 정보	https://data.seoul.go.kr/dataList/OA-2216/S/1/datasetView.do
